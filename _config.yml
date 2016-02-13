@@ -1,0 +1,28 @@
+name: The Feather Jade
+favicon: null
+layout_spectrum: 0.4976920678745955
+typography_spectrum: 0.35739493533037603
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7510525463148952
+  lightness: 0.8096732813864946
+  saturation: 0.1606691034976393
+  rhythmicContrast: 0.9620982827618718
+purpose: []
