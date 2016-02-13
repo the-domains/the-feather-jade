@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[The Feather Jade]]></title>
         <description><![CDATA[The Feather Jade]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-feather-jade/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 13 Feb 2016 04:46:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 13 Feb 2016 04:57:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-feather-jade/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5cf239ec-11e3-4a83-bea9-0e41ae8a8e92.jpg">]]></description>
-            <link>undefinedf49231b4-a7c2-4f09-b407-bdf4f6d1a819/index.html</link>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/96666d3c97de87844ad2539c60570bf0cb933a71.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/the-feather-jade/f49231b4-a7c2-4f09-b407-bdf4f6d1a819/index.html</link>
             <guid isPermaLink="false">f49231b4-a7c2-4f09-b407-bdf4f6d1a819</guid>
-            <pubDate>Sat, 13 Feb 2016 04:46:25 GMT</pubDate>
+            <pubDate>Sat, 13 Feb 2016 04:57:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
